@@ -12,8 +12,8 @@ All you need is Terminal on a mac / Linux, Windows machine.
 ## Usage
 Create a director for the project and cd into it.
 
-Clone down the repo for this project:
-git@github.com:SaharMotlagh/MahmoudiMotlagh_Sahar_EmailForm.git
+Clone down the repo to this project
+
 
 Cd into the directory, now you have access to make changes in this reposetor 
 
